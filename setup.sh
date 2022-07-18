@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo apt-get update
-sudo apt-get install git make
+sudo apt-get install git make gcc gpp
 
 sudo mkdir experiment
 cd experiment
