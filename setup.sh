@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo apt-get install git make
+
 sudo mkdir experiment
 cd experiment
 
