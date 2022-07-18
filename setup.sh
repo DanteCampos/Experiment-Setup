@@ -28,7 +28,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 git clone https://github.com/free5gc/gtp5g
 
 cd gtp5g
-make clean && make
+sudo make clean && sudo make
 sudo make install
 cd ..
 
