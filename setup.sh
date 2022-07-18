@@ -1,5 +1,4 @@
 #!/bin/bash
-
 mkdir experiment
 cd experiment
 apt-get update
