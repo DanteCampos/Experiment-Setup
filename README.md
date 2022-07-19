@@ -1,7 +1,7 @@
 # Experiment-Setup
 Bashs para automatizar a instalação de ferramentas necessárias para realizar experimentos de RAN
 com [My5G-RANTester-Compose](https://github.com/my5G/my5G-RANTester-docker) e
-[Free5GC-Compose](https://github.com/free5gc/free5gc-compose)
+[Free5GC-Compose](https://github.com/free5gc/free5gc-compose).
 
 
 ### Instalações utilizadas:
