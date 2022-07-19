@@ -6,6 +6,7 @@ com [My5G-RANTester-Compose](https://github.com/my5G/my5G-RANTester-docker) e
 
 ### Instalações utilizadas:
 * [Docker Engine](https://docs.docker.com/engine/install/ubuntu/)
+* [Docker Post-Installation](https://docs.docker.com/engine/install/linux-postinstall/)
 * [Docker-Compose](https://linuxhostsupport.com/blog/how-to-install-and-configure-docker-compose-on-ubuntu-20-04/)
 * [GTP5G](https://github.com/free5gc/gtp5g)
 * [Free5GC-Compose](https://github.com/free5gc/free5gc-compose)
