@@ -41,8 +41,8 @@ cd ..
 # Instalando o Free5GC-Compose
 git clone https://github.com/free5gc/free5gc-compose.git
 cd free5gc-compose
-make base
-docker-compose build
+sudo make base
+sudo docker-compose build
 sudo docker-compose up -d
 cd ..
 
