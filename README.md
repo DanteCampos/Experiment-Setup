@@ -13,4 +13,6 @@ com [My5G-RANTester-Compose](https://github.com/my5G/my5G-RANTester-docker) e
 * [My5G-RANTester-Compose](https://github.com/my5G/my5G-RANTester-docker)
 
 ### Para realizar a instalação:
-Clone esse repositório e, na pasta Experiment-Setup, execute ```sudo bash setup.sh```.
+Clone esse repositório e, na pasta Experiment-Setup, execute ```sudo bash setup.sh```.\
+Para iniciar o Free5GC-Compose em background, utilize ```sudo docker-compose up -d``` na pasta ```experiment/free5gc-compose/```.\
+Para iniciar o My5G-RANTester-Compose em background, utilize ```sudo docker-compose up -d``` na pasta ```experiment/my5G-RANTester-docker/```.
